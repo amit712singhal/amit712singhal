@@ -7,11 +7,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20views&color=0e75b6&style=flat" alt="amit712singhal"/></p>
 
-- 🔭 I’m currently working on **SkyNow (Weather App)**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **REST:API**
+- 🌱 I’m currently learning **Database**
 
-- 💬 Ask me about **Node | Express | C++**
+- 💬 Ask me about **REST:API | Express | C++**
 
 - 📫 How to reach me : **rakshit.singhal712@gmail.com**
 

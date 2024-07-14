@@ -47,12 +47,13 @@
 <img title="Postman" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" height="40" alt="postman logo" /><img width="12" />
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" /><img width="12" />
 <img title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><img width="12" />
+  <!--
 <img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /><img width="12" />
 <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><img width="12" />
 <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png?f=webp" height="40" alt="mongodb logo" /><img width="12" />
 <img title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" height="40" alt="kotlin logo" /><img width="12" />
 <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><img width="12" />
-</p>
+</p> -->
 
 ---
 

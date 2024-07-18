@@ -1,4 +1,4 @@
-<img src="https://shorturl.at/xzUXZ" width="100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQHmw5po4rry-Q/profile-displaybackgroundimage-shrink_350_1400/0/1715505433067?e=1726704000&v=beta&t=rnlt56LMG9FEXAA72X3zN2JeWGhEnIL-l8EPhR1jvxE" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Amit Singhal</h1>
 <h3 align="center">Emerging Software Engineer | Sophomore Developer @MAIT'26</h3>

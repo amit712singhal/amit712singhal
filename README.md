@@ -53,20 +53,17 @@
   
 ## 🔥 GitHub Stats
 
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img height=210px src="https://github-readme-stats.vercel.app/api?username=amit712singhal&theme=highcontrast&show_icons=true" />
-    </td>
-    <td style="border: none;">
-      <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast&hide_border=false"/>
-    </td>
-    <td style="border: none;">
-      <img height=210px src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&locale=en&layout=compact&theme=highcontrast" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-Reviews" width="100%" alt="Trophies" />
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="42%" alt="" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="55%" alt="" />
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-Reviews" width="100%" alt="" />
+  <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />
 </p>

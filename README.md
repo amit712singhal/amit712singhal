@@ -2,11 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal!;Full+Stack+Developer+@MAIT'26" />
 </h1>
 
-- 🔭 I’m currently working with **Byteminders**
-
-- 🌱 I’m currently learning **Web3**
-
-- 💬 Ask me about **C++ | MERN | Git**
+<table style="border-collapse: collapse; margin: 0;">
+  <tr>
+    <td style="border: none; vertical-align: top; padding: 0 10px 0 0;">
+      <p>
+        - 🔭 I’m currently working with <strong>Byteminders</strong><br>
+        - 🌱 I’m currently learning <strong>Web3</strong><br>
+        - 💬 Ask me about <strong>C++ | MERN | Git</strong>
+      </p>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&redirect=true">
+        <img height="120px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Languages and Tools
 
@@ -33,37 +44,15 @@
   
 ## 🔥 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=-Reviews,-Issues" width="200%" alt="" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
-      <img height=195px src="https://github-readme-stats.vercel.app/api?username=amit712singhal&theme=highcontrast&show_icons=true" />
-    </td>
-    <td>
-        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast&hide_border=false"/>
-    </td>
-    <td>
-      <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&locale=en&layout=compact&theme=highcontrast" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/singhal-amit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_logo" height="30" width="40" title="LinkedIn"/></a>  
-  <a href="https://instagram.com/_singhal_amit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_logo" height="30" width="40" title="Instagram"/></a>
-  <a href="https://www.hackerrank.com/singhal_amit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank_logo" height="30" width="40" title="Hacker-Rank"/></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub" width="100%" alt="" />
 </p>
 
-<!--
-<a href="" target="blank"><img title="LeetCode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Geeks-for-Geeks" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Stack-Overflow" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Discord" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a> -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=dark&locale=en&layout=compact" width="42%" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=dark" width="55%" alt="" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=dark" width="65%" alt="" />
+</p>

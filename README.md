@@ -19,15 +19,6 @@
   </tr>
 </table>
 
-
-## Connect with Me
-<div align="left">
-  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
-</div>
-
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -67,3 +58,11 @@
 <p align="center">
   <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />
 </p>
+
+## Connect with Me
+<div align="left">
+  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
+</div>

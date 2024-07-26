@@ -45,14 +45,25 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub" width="100%" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-Reviews" width="100%" alt="Trophies" />
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=dark&locale=en&layout=compact" width="42%" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=dark" width="55%" alt="" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="42%" alt="" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="55%" alt="" />
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=dark" width="65%" alt="" />
+  <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />
 </p>
+
+## Connect with Me
+
+<div align="left">
+  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
+</div>

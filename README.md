@@ -1,38 +1,35 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHmw5po4rry-Q/profile-displaybackgroundimage-shrink_350_1400/0/1715505433067?e=1726704000&v=beta&t=rnlt56LMG9FEXAA72X3zN2JeWGhEnIL-l8EPhR1jvxE" width="100%" />
+<h1 align="center" style="background-color:#000;padding:6px;border-radius:10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal!;Full+Stack+Developer+@MAIT'26" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Amit Singhal</h1>
-<h3 align="center">Emerging Software Engineer | Sophomore Developer @MAIT'26</h3>
+<table style="border-collapse: collapse; margin: 0;">
+  <tr>
+    <td style="border: none; vertical-align: top; padding: 0 10px 0 0;">
+      <p>
+        - 🔭 I’m currently working with <strong>Byteminders</strong><br>
+        - 🌱 I’m currently learning <strong>Web3</strong><br>
+        - 💬 Ask me about <strong>C++ | MERN | Git</strong>
+      </p>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&redirect=true">
+        <img height="120px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- ![](https://leetcard.jacoblin.cool/user-name?ext=contest) -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20views&color=0e75b6&style=flat" alt="amit712singhal"/></p>
+## Connect with Me
+<div align="left">
+  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
+</div>
 
-- 🔭 I’m currently working on **My Portfolio**
+## 🛠 Languages and Tools
 
-- 🌱 I’m currently learning **Database**
-
-- 💬 Ask me about **REST:API | Express | C++**
-
-- 📫 How to reach me : **rakshit.singhal712@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/singhal-amit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_logo" height="30" width="40" title="LinkedIn"/></a>  
-  <a href="https://instagram.com/_singhal_amit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_logo" height="30" width="40" title="Instagram"/></a>
-  <a href="https://www.hackerrank.com/singhal_amit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank_logo" height="30" width="40" title="Hacker-Rank"/></a>
-</p>
-
-<!--
-<a href="" target="blank"><img title="LeetCode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Geeks-for-Geeks" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Stack-Overflow" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img title="Discord" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a> -->
-
----
-
-<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
 <img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /><img width="12" />
 <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo" /><img width="12" />
@@ -47,28 +44,29 @@
 <img title="Postman" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" height="40" alt="postman logo" /><img width="12" />
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" /><img width="12" />
 <img title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><img width="12" />
-<!--
 <img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /><img width="12" />
 <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><img width="12" />
 <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png?f=webp" height="40" alt="mongodb logo" /><img width="12" />
 <img title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" height="40" alt="kotlin logo" /><img width="12" />
 <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><img width="12" />
--->
-</p> 
-  
----
-  
-<h3 align="left">🔥 My Stats :</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub" width="100%" alt="" />
 </p>
+  
+## 🔥 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=dark&locale=en&layout=compact" width="42%" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=dark" width="55%" alt="" />
-</div>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img height=210px src="https://github-readme-stats.vercel.app/api?username=amit712singhal&theme=highcontrast&show_icons=true" />
+    </td>
+    <td style="border: none;">
+      <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast&hide_border=false"/>
+    </td>
+    <td style="border: none;">
+      <img height=210px src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&locale=en&layout=compact&theme=highcontrast" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=dark" width="65%" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-Reviews" width="100%" alt="" />
 </p>

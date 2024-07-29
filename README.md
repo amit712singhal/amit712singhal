@@ -1,6 +1,10 @@
 <h1 align="center" style="background-color:#000;padding:6px;border-radius:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal!;Full+Stack+Developer+@MAIT'26" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
 </h1>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=amit712singhal&label=Profile%20Views&color=12&icon=0&pretty=true" height="25px"/>
+</div>
 
 <table style="border-collapse: collapse; margin: 0;">
   <tr>
@@ -41,6 +45,15 @@
 <img title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" height="40" alt="kotlin logo" /><img width="12" />
 <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><img width="12" />
 </p>
+
+## 🔗 Connect with Me
+
+<div align="left">
+  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
+</div>
   
 ## 🔥 GitHub Stats
 
@@ -58,12 +71,3 @@
 <p align="center">
   <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />
 </p>
-
-## Connect with Me
-
-<div align="left">
-  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
-</div>

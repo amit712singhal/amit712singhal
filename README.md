@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amit712singhal&label=Profile%20Views&color=12&icon=0&pretty=true" height="25px"/>
+    <img src="https://visitcount.itsvg.in/api?id=amit712singhal&label=Profile%20Views&pretty=true" />
 </div>
 
 <table style="border-collapse: collapse; margin: 0;">
@@ -65,8 +65,6 @@
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="41%" alt="" />
   <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="54%" alt="" />
 </div>
-
-<br>
 
 <p align="center">
   <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />

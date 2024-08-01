@@ -20,7 +20,7 @@
       </a>
     </td>
       <td>
-          <img alt="Coder GIF" height=200 width=300 style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+          <img alt="Coder GIF" height=150 width=200 style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
       </td>
   </tr>
 </table>

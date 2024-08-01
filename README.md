@@ -1,25 +1,27 @@
 <h1 align="center" style="background-color:#000;padding:6px;border-radius:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal+😎;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal+👨‍💻;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
 </h1>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=plastic&base=4500&abbreviated=true" alt="amit712singhal" />
 </div>
 
-<table style="border-collapse: collapse; margin: 0;">
+<table>
   <tr>
-    <td style="border: none; vertical-align: top; padding: 0 10px 0 0;">
-      <p>
+    <td>
         - 🔭 I’m currently working with <strong>Byteminders</strong><br>
         - 🌱 I’m currently learning <strong>Web3</strong><br>
-        - 💬 Ask me about <strong>C++ | MERN | Git</strong>
-      </p>
+        - 💬 Ask me about <strong>C++ | MERN | Git</strong><br>
+        - 📝 Checkout my <a href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=sharing&redirect=true">Resume</a>
     </td>
-    <td style="border: none; padding: 0;">
+    <td>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&redirect=true">
         <img height="120px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
       </a>
     </td>
+      <td>
+          <img alt="Coder GIF" height=200 width=300 style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+      </td>
   </tr>
 </table>
 

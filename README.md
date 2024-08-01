@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=amit712singhal&label=Profile%20Views&pretty=true" />
+    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=plastic&base=4500&abbreviated=true" alt="amit712singhal" />
 </div>
 
 <table style="border-collapse: collapse; margin: 0;">

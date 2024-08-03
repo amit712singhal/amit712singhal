@@ -52,7 +52,6 @@
 <p>
      <img alt="Bootstrap" src="https://custom-icon-badges.herokuapp.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><img width="10" />
      <img alt="Express.js" src="https://custom-icon-badges.herokuapp.com/badge/Express.js-404d59.svg?logo=express&logoColor=white"><img width="10" />
-     <img alt="jQuery" src="https://custom-icon-badges.herokuapp.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"><img width="10" />
      <img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><img width="10" />
 </p>
 
@@ -77,6 +76,23 @@
 
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
+</div>
+
+<div>
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="41%" alt="" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="54%" alt="" />
+</div>
+
+<div align="center">
+  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" alt="" />
+</div>
+
+<div  align="center">
+     <img alt="AmitSinghal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold"/>
+</div>
+
 ## 🔗 Connect with Me
 
 <div align="left">
@@ -84,20 +100,4 @@
   <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://custom-icon-badges.herokuapp.com/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/_singhal_amit"><img src="https://custom-icon-badges.herokuapp.com/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
    <img src="https://custom-icon-badges.herokuapp.com/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
-</div>
-  
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
-</p>
-
-<div>
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="41%" alt="" />
-  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="54%" alt="" />
-</div>
-
-<div>
-  <img height="210px"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" alt="" />
-  <img height="210px"  width="54%" alt="AmitSinghal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF" />
 </div>

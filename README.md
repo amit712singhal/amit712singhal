@@ -20,54 +20,84 @@
       </a>
     </td>
       <td>
-          <img alt="Coder GIF" height=150 width=200 style="border-radius: 50%;" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+          <img alt="Coder GIF" height=150 width=200 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
       </td>
   </tr>
 </table>
 
-## 🛠 Languages and Tools
+## 🛠️ Favourite Tools
 
-<p align="left">
-<img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /><img width="12" />
-<img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo" /><img width="12" />
-<img title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo" /><img width="12" />
-<img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" /><img width="12" />
-<img title="My SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /><img width="12" />
-<img title="HTML" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" height="40" alt="html5 logo" /><img width="12" />
-<img title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="40" alt="css3 logo" /><img width="12" />
-<img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /><img width="12" />
-<img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /><img width="12" />
-<img title="jQuery" src="https://static-00.iconduck.com/assets.00/jquery-icon-icon-512x507-kvrw1iok.png" height="40" alt="jQuery logo" /><img width="12" />
-<img title="Postman" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" height="40" alt="postman logo" /><img width="12" />
-<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" /><img width="12" />
-<img title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><img width="12" />
-<img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /><img width="12" />
-<img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><img width="12" />
-<img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png?f=webp" height="40" alt="mongodb logo" /><img width="12" />
-<img title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" height="40" alt="kotlin logo" /><img width="12" />
-<img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><img width="12" />
+### 👨‍💻 Programming languages
+
+<p>
+     <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white&style="><img width="10" />
+     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?logo=java&logoColor=white"><img width="10" />
+     <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
+     <img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
+     <img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><img width="10" />
+     <img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><img width="10" />
+     <img alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><img width="10" />
+     <img alt="Markdown" src="https://custom-icon-badges.herokuapp.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white"><img width="10" />
+     <img alt="Node.js" src="https://custom-icon-badges.herokuapp.com/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"><img width="10" />
+     <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-777BB4.svg?logo=php&logoColor=white"><img width="10" />
+     <img alt="SASS" src="https://custom-icon-badges.herokuapp.com/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"><img width="10" />
+     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><img width="10" />
+     <img alt="Kotlin" src="https://custom-icon-badges.herokuapp.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"><img width="10" />
+     <img alt="TypeScript" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"><img width="10" />
+     <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"><img width="10" />
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+     <img alt="Bootstrap" src="https://custom-icon-badges.herokuapp.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><img width="10" />
+     <img alt="Express.js" src="https://custom-icon-badges.herokuapp.com/badge/Express.js-404d59.svg?logo=express&logoColor=white"><img width="10" />
+     <img alt="jQuery" src="https://custom-icon-badges.herokuapp.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"><img width="10" />
+     <img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><img width="10" />
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+     <img alt="MySQL" src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"><img width="10" />
+     <img alt="PostgreSQL" src ="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"><img width="10" />
+     <img alt="GitHub Pages" src="https://custom-icon-badges.herokuapp.com/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"><img width="10" />
+     <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"><img width="10" />
+</p>
+
+### 💻 Software and tools
+
+<p>
+     <img alt="Brave" src="https://custom-icon-badges.herokuapp.com/badge/-Brave-FB542B?logo=brave&logoColor=white"><img width="10" />
+    <img alt="Visual Studio Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img width="10" />
+     <img alt="Postman" src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37?logo=postman&logoColor=white"><img width="10" />
+     <img alt="Codepen" src="https://custom-icon-badges.herokuapp.com/badge/Codepen-000000.svg?logo=codepen&logoColor=white"><img width="10" />
+     <img alt="Git" src="https://custom-icon-badges.herokuapp.com/badge/Git-F05033.svg?logo=git&logoColor=white"><img width="10" />
+     <img alt="Stack Overflow" src="https://custom-icon-badges.herokuapp.com/badge/-GitHub-181717?logo=github&logoColor=white"><img width="10" />
+
 </p>
 
 ## 🔗 Connect with Me
 
 <div align="left">
-  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
+  <a href="mailto:rakshit.singhal@gmail.com"><img src="https://custom-icon-badges.herokuapp.com/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank"><img src="https://custom-icon-badges.herokuapp.com/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_singhal_amit"><img src="https://custom-icon-badges.herokuapp.com/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+   <img src="https://custom-icon-badges.herokuapp.com/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"></a>
 </div>
   
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" width="41%" alt="" />
   <img height="210px" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" width="54%" alt="" />
 </div>
 
-<p align="center">
-  <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" width="65%" alt="" />
-</p>
+<div>
+  <img height="210px"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" alt="" />
+  <img height="210px"  width="54%" alt="AmitSinghal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF" />
+</div>

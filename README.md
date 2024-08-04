@@ -99,7 +99,7 @@
   <a href="mailto:rakshit.singhal@gmail.com">
       <img alt="Email" src="https://custom-icon-badges.herokuapp.com/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank">
+  <a href="https://www.linkedin.com/in/singhal-amit">
       <img alt="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/_singhal_amit">

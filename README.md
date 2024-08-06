@@ -30,49 +30,49 @@
 ### 👨‍💻 Programming languages
 
 <p>
-     <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white&style="><img width="10" />
-     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?logo=java&logoColor=white"><img width="10" />
-     <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
-     <img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
-     <img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><img width="10" />
-     <img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><img width="10" />
-     <img alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><img width="10" />
-     <img alt="Markdown" src="https://custom-icon-badges.herokuapp.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white"><img width="10" />
-     <img alt="Node.js" src="https://custom-icon-badges.herokuapp.com/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"><img width="10" />
-     <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-777BB4.svg?logo=php&logoColor=white"><img width="10" />
-     <img alt="SASS" src="https://custom-icon-badges.herokuapp.com/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"><img width="10" />
-     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><img width="10" />
-     <img alt="Kotlin" src="https://custom-icon-badges.herokuapp.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"><img width="10" />
-     <img alt="TypeScript" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"><img width="10" />
-     <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"><img width="10" />
+    <img title="HTML" alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><img width="10" />
+     <img title="CSS" alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><img width="10" />
+     <img title="JavaScript" alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><img width="10" />
+     <img title="Node.js" alt="Node.js" src="https://custom-icon-badges.herokuapp.com/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"><img width="10" />
+     <img title="Markdown" alt="Markdown" src="https://custom-icon-badges.herokuapp.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white"><img width="10" />
+     <img title="PHP" alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-777BB4.svg?logo=php&logoColor=white"><img width="10" />
+     <img title="C++" alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white&style="><img width="10" />
+     <img title="Java" alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-C1914B.svg?logo=java&logoColor=white"><img width="10" />
+     <img title="C" alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
+     <img title="Python" alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
+     <img title="SASS" alt="SASS" src="https://custom-icon-badges.herokuapp.com/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"><img width="10" />
+     <img title="SQL" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><img width="10" />
+     <img title="Kotlin" alt="Kotlin" src="https://custom-icon-badges.herokuapp.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"><img width="10" />
+     <img title="TypeScript" alt="TypeScript" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"><img width="10" />
+     <img title="Bash" alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"><img width="10" />
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
      <img alt="Bootstrap" src="https://custom-icon-badges.herokuapp.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><img width="10" />
-     <img alt="Express.js" src="https://custom-icon-badges.herokuapp.com/badge/Express.js-404d59.svg?logo=express&logoColor=white"><img width="10" />
+     <img alt="jQuery" src="https://custom-icon-badges.herokuapp.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"><img width="10" />
+     <img alt="Express.js" src="https://custom-icon-badges.herokuapp.com/badge/Express.js-000.svg?logo=express&logoColor=white"><img width="10" />
      <img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><img width="10" />
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-     <img alt="MySQL" src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"><img width="10" />
-     <img alt="PostgreSQL" src ="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"><img width="10" />
-     <img alt="GitHub Pages" src="https://custom-icon-badges.herokuapp.com/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"><img width="10" />
-     <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"><img width="10" />
+    <img alt="MySQL" src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"><img width="10" />
+     <img alt="PostgreSQL" src ="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"><img width="10" />
+     <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47a248.svg?logo=mongodb&logoColor=white"><img width="10" />
 </p>
 
 ### 💻 Software and tools
 
 <p>
-     <img alt="Brave" src="https://custom-icon-badges.herokuapp.com/badge/-Brave-FB542B?logo=brave&logoColor=white"><img width="10" />
+    <img alt="Postman" src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37?logo=postman&logoColor=white"><img width="10" />
     <img alt="Visual Studio Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img width="10" />
-     <img alt="Postman" src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37?logo=postman&logoColor=white"><img width="10" />
+     <img alt="Git" src="https://custom-icon-badges.herokuapp.com/badge/Git-F05032.svg?logo=git&logoColor=white"><img width="10" />
+     <img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/-GitHub-181717?logo=github&logoColor=white"><img width="10" />
+     <img alt="Brave" src="https://custom-icon-badges.herokuapp.com/badge/-Brave-FB542B?logo=brave&logoColor=white"><img width="10" />
      <img alt="Codepen" src="https://custom-icon-badges.herokuapp.com/badge/Codepen-000000.svg?logo=codepen&logoColor=white"><img width="10" />
-     <img alt="Git" src="https://custom-icon-badges.herokuapp.com/badge/Git-F05033.svg?logo=git&logoColor=white"><img width="10" />
-     <img alt="Stack Overflow" src="https://custom-icon-badges.herokuapp.com/badge/-GitHub-181717?logo=github&logoColor=white"><img width="10" />
 
 </p>
 
@@ -96,16 +96,20 @@
 ## 🔗 Connect with Me
 
 <div align="left">
-  <a href="mailto:rakshit.singhal@gmail.com">
-      <img alt="Email" src="https://custom-icon-badges.herokuapp.com/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:rakshit.singhal@gmail.com" target="_blank">
+      <img alt="Email" src="https://custom-icon-badges.herokuapp.com/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+      <img width="20" />
   </a>
-  <a href="https://www.linkedin.com/in/singhal-amit">
-      <img alt="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank">
+      <img alt="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="20" />
   </a>
-  <a href="https://instagram.com/_singhal_amit">
-      <img alt="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://instagram.com/_singhal_amit" target="_blank">
+      <img alt="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img width="20" />
   </a>
-  <a href="https://leetcode.com/u/_singhal_amit/">
-      <img alt="LeetCode" src="https://custom-icon-badges.herokuapp.com/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="white">
+  <a href="https://leetcode.com/u/_singhal_amit/" target="_blank">
+      <img alt="LeetCode" src="https://custom-icon-badges.herokuapp.com/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+      <img width="20" />
   </a>
 </div>

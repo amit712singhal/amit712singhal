@@ -37,7 +37,7 @@
      <img title="Markdown" alt="Markdown" src="https://custom-icon-badges.herokuapp.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white"><img width="10" />
      <img title="PHP" alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-777BB4.svg?logo=php&logoColor=white"><img width="10" />
      <img title="C++" alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white&style="><img width="10" />
-     <img title="Java" alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-C1914B.svg?logo=java&logoColor=white"><img width="10" />
+     <img title="Java" alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ED8B00.svg?logo=java&logoColor=white"><img width="10" />
      <img title="C" alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
      <img title="Python" alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
      <img title="SASS" alt="SASS" src="https://custom-icon-badges.herokuapp.com/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"><img width="10" />
@@ -76,6 +76,8 @@
 
 </p>
 
+
+    
 <details>
     <summary><h2>📊 Stats and Activity</h2></summary>
     <div align="center">
@@ -93,23 +95,9 @@
     </div>
 </details>
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
-<div align="left">
-  <a href="mailto:rakshit.singhal@gmail.com" target="_blank">
-      <img alt="Email" src="https://custom-icon-badges.herokuapp.com/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-      <img width="20" />
-  </a>
-  <a href="https://www.linkedin.com/in/singhal-amit" target="_blank">
-      <img alt="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-      <img width="20" />
-  </a>
-  <a href="https://instagram.com/_singhal_amit" target="_blank">
-      <img alt="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      <img width="20" />
-  </a>
-  <a href="https://leetcode.com/u/_singhal_amit/" target="_blank">
-      <img alt="LeetCode" src="https://custom-icon-badges.herokuapp.com/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
-      <img width="20" />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshit.singhal@gmail.com)<img width="15" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhal-amit)<img width="15" />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_singhal_amit)<img width="15" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_singhal_amit/)<img width="15" />

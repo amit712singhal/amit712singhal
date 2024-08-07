@@ -20,7 +20,7 @@
       </a>
     </td>
       <td>
-          <img alt="Coder GIF" height=150 width=200 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+          <img alt="Coder GIF" height=150 width=200 src="programmer.gif" />
       </td>
   </tr>
 </table>

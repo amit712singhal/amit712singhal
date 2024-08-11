@@ -75,8 +75,6 @@
      <img alt="Codepen" src="https://custom-icon-badges.herokuapp.com/badge/Codepen-000000.svg?logo=codepen&logoColor=white"><img width="10" />
 
 </p>
-
-
     
 <details>
     <summary><h2>📊 Stats and Activity</h2></summary>
@@ -97,7 +95,7 @@
 
 ## 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshit.singhal@gmail.com)<img width="15" />
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshit.singhal712@gmail.com)<img width="15" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhal-amit)<img width="15" />
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_singhal_amit)<img width="15" />
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_singhal_amit/)<img width="15" />

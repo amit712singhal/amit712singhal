@@ -1,14 +1,13 @@
-<h1 align="center" style="background-color:#000;padding:6px;border-radius:10px;">
+<div align="center"">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal+👨‍💻;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
-</h1>
-
-<div align="left">
-    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=flat-square" alt="amit712singhal" />
 </div>
 
 <table align="center">
   <tr>
     <td>
+        <div align="center" margin-bottom=12px>
+            <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=flat-square" alt="amit712singhal" />
+        </div>
         - 🔭 I’m currently working with <strong>Byteminders</strong><br>
         - 🌱 I’m currently learning <strong>Web3</strong><br>
         - 💬 Ask me about <strong>C++ | MERN | Git</strong><br>
@@ -24,10 +23,10 @@
 
 <div align="center">
 
-|                                                                                                                                                                                               |                                                                                                                                                                                                                           |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=highcontrast" /></a> | <a href="https://github.com/amit712singhal/Major-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Major-Projects&theme=highcontrast" /></a>                 |
-| <a href="https://github.com/amit712singhal/Login-SignUp-Website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Login-SignUp-Website&theme=highcontrast" /></a> | <a href="https://github.com/amit712singhal/Mini-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Mini-Projects&theme=highcontrast" /></a> |
+|                                                                                                                                                                                                                                     |                                                                                                                                                                                                                           |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=vision-friendly-dark" /></a>                           | <a href="https://github.com/amit712singhal/Major-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Major-Projects&theme=vision-friendly-dark" /></a>   |
+| <a href="https://github.com/amit712singhal/Login-SignUp-Website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Login-SignUp-Website&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/Mini-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Mini-Projects&theme=vision-friendly-dark" /></a>     |
 
 </div>
 
@@ -92,15 +91,13 @@
 </div>
 
 <div align="center">
-    <img alt="Amit's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&margin-w=3&no-bg=true&no-frame=true" width="100%" />
-</div>
 
-<div align="center">
-
-| <img align="center" alt="Amit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="300px" /> | <img align="center" alt="Amit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold" /> |
+| <img align="center" alt="Amit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="200px" /> | <img align="center" alt="Amit's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 </div>
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 

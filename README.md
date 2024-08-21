@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal+👨‍💻;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
 </h1>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=plastic&abbreviated=true" alt="amit712singhal" />
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=lightgrey&style=flat-square" alt="amit712singhal" />
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td>
         - 🔭 I’m currently working with <strong>Byteminders</strong><br>
@@ -14,16 +14,12 @@
         - 💬 Ask me about <strong>C++ | MERN | Git</strong><br>
         - 📝 Checkout my <a href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=sharing&redirect=true">Resume</a>
     </td>
-    <td>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&redirect=true">
-        <img height="120px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-      </a>
-    </td>
       <td>
-          <img alt="Coder GIF" height=150 width=200 src="programmer.gif" />
+          <img alt="Coder GIF" height=170 src="programmer.gif" />
       </td>
   </tr>
 </table>
+
 
 ## 🛠️ Favourite Tools
 
@@ -73,25 +69,27 @@
      <img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/-GitHub-181717?logo=github&logoColor=white"><img width="10" />
      <img alt="Brave" src="https://custom-icon-badges.herokuapp.com/badge/-Brave-FB542B?logo=brave&logoColor=white"><img width="10" />
      <img alt="Codepen" src="https://custom-icon-badges.herokuapp.com/badge/Codepen-000000.svg?logo=codepen&logoColor=white"><img width="10" />
-
 </p>
-    
-<details>
-    <summary><h2>📊 Stats and Activity</h2></summary>
-    <div align="center">
-        <img alt="AmitSinghal's Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&margin-w=4" width="100%" />
-    </div>
-    <div>
-        <img alt="AmitSinghal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=highcontrast&locale=en&layout=compact" height="210px" width="41%" />
-        <img alt="AmitSinghal's Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=highcontrast" height="210px" width="54%" />
-    </div>
-    <div align="center">
-        <img alt="AmitSinghal's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=highcontrast" height="250px" />
-    </div>
-    <div align="center">
-        <img alt="AmitSinghal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold" />
-    </div>
-</details>
+
+## 📊 Stats and Activity
+
+<div align="center">
+
+| <img align="center" alt="Amit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=vision-friendly-dark" /> | <img align="center" alt="Amit's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+</div>
+
+<div align="center">
+    <img alt="Amit's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=darkhub&margin-w=3&no-bg=true&no-frame=true" width="100%" />
+</div>
+
+<div align="center">
+
+| <img align="center" alt="Amit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="300px" /> | <img align="center" alt="Amit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+</div>
 
 ## 🌐 Connect with Me
 

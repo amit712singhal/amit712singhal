@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=lightgrey&style=flat-square" alt="amit712singhal" />
+    <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=flat-square" alt="amit712singhal" />
 </div>
 
 <table align="center">
@@ -19,6 +19,17 @@
       </td>
   </tr>
 </table>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+|                                                                                                                                                                                               |                                                                                                                                                                                                                           |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=highcontrast" /></a> | <a href="https://github.com/amit712singhal/Major-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Major-Projects&theme=highcontrast" /></a>                 |
+| <a href="https://github.com/amit712singhal/Login-SignUp-Website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Login-SignUp-Website&theme=highcontrast" /></a> | <a href="https://github.com/amit712singhal/Mini-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Mini-Projects&theme=highcontrast" /></a> |
+
+</div>
 
 
 ## 🛠️ Favourite Tools

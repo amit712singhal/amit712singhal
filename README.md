@@ -2,29 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Amit+Singhal+👨‍💻;Full+Stack+Developer+@MAIT'26+👨‍🎓" />
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-        <div align="center" margin-bottom=12px>
-            <img src="https://komarev.com/ghpvc/?username=amit712singhal&label=Profile%20Views&color=blue&style=flat-square" alt="amit712singhal" />
-        </div>
-        - 🔭 I’m currently working with <strong>Byteminders</strong><br>
-        - 🌱 I’m currently learning <strong>Web3</strong><br>
-        - 💬 Ask me about <strong>C++ | MERN | Git</strong><br>
-        - 📝 Checkout my <a href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=sharing&redirect=true">Resume</a>
-    </td>
-      <td>
-          <img alt="Coder GIF" height=170 src="programmer.gif" />
-      </td>
-  </tr>
-</table>
-
 ## 📌 Pinned Repositories
 
 <div align="center">
 
-|                                                                                                                                                                                                                                     |                                                                                                                                                                                                                           |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                   |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=vision-friendly-dark" /></a>                           | <a href="https://github.com/amit712singhal/Major-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Major-Projects&theme=vision-friendly-dark" /></a>   |
 | <a href="https://github.com/amit712singhal/Login-SignUp-Website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Login-SignUp-Website&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/Mini-Projects"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Mini-Projects&theme=vision-friendly-dark" /></a>     |
 
@@ -93,7 +76,7 @@
 <div align="center">
 
 | <img align="center" alt="Amit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="200px" /> | <img align="center" alt="Amit's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 

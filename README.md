@@ -33,11 +33,7 @@
      <img title="Java" alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ED8B00.svg?logo=java&logoColor=white"><img width="10" />
      <img title="C" alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
      <img title="Python" alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
-     <img title="SASS" alt="SASS" src="https://custom-icon-badges.herokuapp.com/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"><img width="10" />
      <img title="SQL" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><img width="10" />
-     <img title="Kotlin" alt="Kotlin" src="https://custom-icon-badges.herokuapp.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"><img width="10" />
-     <img title="TypeScript" alt="TypeScript" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"><img width="10" />
-     <img title="Bash" alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"><img width="10" />
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -53,19 +49,15 @@
 
 <p>
     <img alt="MySQL" src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"><img width="10" />
-     <img alt="PostgreSQL" src ="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"><img width="10" />
-     <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47a248.svg?logo=mongodb&logoColor=white"><img width="10" />
+    <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47a248.svg?logo=mongodb&logoColor=white"><img width="10" />
 </p>
 
 ### 💻 Software and tools
 
 <p>
     <img alt="Postman" src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37?logo=postman&logoColor=white"><img width="10" />
-    <img alt="Visual Studio Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img width="10" />
+    <img alt="VS-Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img width="10" />
      <img alt="Git" src="https://custom-icon-badges.herokuapp.com/badge/Git-F05032.svg?logo=git&logoColor=white"><img width="10" />
-     <img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/-GitHub-181717?logo=github&logoColor=white"><img width="10" />
-     <img alt="Brave" src="https://custom-icon-badges.herokuapp.com/badge/-Brave-FB542B?logo=brave&logoColor=white"><img width="10" />
-     <img alt="Codepen" src="https://custom-icon-badges.herokuapp.com/badge/Codepen-000000.svg?logo=codepen&logoColor=white"><img width="10" />
 </p>
 
 ## 📊 Stats and Activity

@@ -17,48 +17,44 @@
 
 </div>
 
+&emsp;
 
-## 🛠️ Favourite Tools
+## 🛠️ My Skills
 
-### 👨‍💻 Programming languages
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Node.Js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-000.svg?logo=c-in-hexagon&logoColor=A8B9CC)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?logo=java&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000.svg?logo=database&logoColor=025E8C)
 
-<p>
-    <img title="HTML" alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><img width="10" />
-     <img title="CSS" alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><img width="10" />
-     <img title="JavaScript" alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><img width="10" />
-     <img title="Node.js" alt="Node.js" src="https://custom-icon-badges.herokuapp.com/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"><img width="10" />
-     <img title="Markdown" alt="Markdown" src="https://custom-icon-badges.herokuapp.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white"><img width="10" />
-     <img title="PHP" alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-777BB4.svg?logo=php&logoColor=white"><img width="10" />
-     <img title="C++" alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white&style="><img width="10" />
-     <img title="Java" alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ED8B00.svg?logo=java&logoColor=white"><img width="10" />
-     <img title="C" alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"><img width="10" />
-     <img title="Python" alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"><img width="10" />
-     <img title="SQL" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><img width="10" />
-</p>
+### Frameworks & Libraries: 
+&emsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstarp-000?&logo=Bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### 🧰 Frameworks and libraries
+### Databases & Cloud Hosting:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-<p>
-     <img alt="Bootstrap" src="https://custom-icon-badges.herokuapp.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><img width="10" />
-     <img alt="jQuery" src="https://custom-icon-badges.herokuapp.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"><img width="10" />
-     <img alt="Express.js" src="https://custom-icon-badges.herokuapp.com/badge/Express.js-000.svg?logo=express&logoColor=white"><img width="10" />
-     <img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><img width="10" />
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <img alt="MySQL" src="https://custom-icon-badges.herokuapp.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"><img width="10" />
-    <img alt="MongoDB" src ="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47a248.svg?logo=mongodb&logoColor=white"><img width="10" />
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <img alt="Postman" src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37?logo=postman&logoColor=white"><img width="10" />
-    <img alt="VS-Code" src="https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img width="10" />
-     <img alt="Git" src="https://custom-icon-badges.herokuapp.com/badge/Git-F05032.svg?logo=git&logoColor=white"><img width="10" />
-</p>
+### Software & Tools:
+&emsp;
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-000.svg?logo=visual-studio-code&logoColor=0078d7)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ## 📊 Stats and Activity
 

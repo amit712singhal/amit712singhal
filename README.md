@@ -6,21 +6,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 </div>
 
-<!--
-<h2 align="center">Leetcode Info<h2>
-
-<p align="center">
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" />
-</p>
--->
-
 ## 📌 Pinned Repositories <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge" alt="Profile Views">
 
 <div align="center">
@@ -92,6 +77,28 @@
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold&&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<div align="center">
+
+| <img height="180px" width="" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /> | <img align="center" alt="Profile Trophies" src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+</div>
+
+<!--
+<h2 align="center">Leetcode Info<h2>
+
+<p align="center">
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" />
+</p>
+-->
 
 ## 🌐 Connect with Me
 

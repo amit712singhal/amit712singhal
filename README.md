@@ -6,6 +6,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 </div>
 
+<!--
+<h2 align="center">Leetcode Info<h2>
+    
+<p align="center">
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" />  
+</p>
+-->
+
 ## 📌 Pinned Repositories
 
 <div align="center">
@@ -60,7 +75,7 @@
 
 <div align="center">
 
-| <img align="center" alt="Amit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&theme=vision-friendly-dark" /> | <img align="center" alt="Amit's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark" /> |
+| <img align="center" alt="Amit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&rank_icon=github&theme=vision-friendly-dark" /> | <img align="center" alt="Amit's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>

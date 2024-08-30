@@ -8,7 +8,7 @@
 
 <!--
 <h2 align="center">Leetcode Info<h2>
-    
+
 <p align="center">
   <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" />
 </p>
 -->
 
@@ -50,7 +50,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000.svg?logo=database&logoColor=025E8C)
 
-### Frameworks & Libraries: 
+### Frameworks & Libraries:
 &emsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstarp-000?&logo=Bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
@@ -74,83 +74,31 @@
 ## 📊 Stats and Activity
 
 <div align="center">
-    
+
 | <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&rank_icon=github&theme=vision-friendly-dark" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
 <div align="center">
-    
+
 | <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="200px" /> | <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
 <div align="center">
-    
+
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&border=bold&&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ## 🌐 Connect with Me
 
-<a href="http://www.AliBilal.com/" title="AliBilal.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/globe-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/globe-light.svg">
-    <img alt="Website:AliBilal.com" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/globe-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="mailto:MrAliBilal@Outlook.com" title="Email: MrAliBilal@Outlook.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/email-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/email-light.svg">
-    <img alt="Email:MrAliBilal@Outlook.com" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/email-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/MrAliBilal" title="LinkedIn: MrAliBilal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/linkedin-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/linkedin-light.svg">
-    <img alt="" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/linkedin-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="http://discordapp.com/users/MrAliBilal" title="Discord: MrAliBilal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/discord-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/discord-light.svg">
-    <img alt="Discord: MrAliBilal" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/discord-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="https://t.me/MrAlibilal" title="Telegram: MrAliBilal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/telegram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/telegram-light.svg">
-    <img alt="Telegram: MrAliBilal" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/telegram-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Mr.AliBilal" title="Instagram: Mr.AliBilal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/instagram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/instagram-light.svg">
-    <img alt="Instagram: Mr.AliBilal" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/instagram-default.svg">
-  </picture>
-</a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@MrAliBilal" title="Youtube: @MrAliBilal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/youtube-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/youtube-light.svg">
-    <img alt="Youtube: @MrAliBilal" src="https://github.com/MrAliBilal/MrAliBilal/tree/main/img/connect-with-me-section/youtube-default.svg">
-  </picture>
-</a>
-
-<!--
 [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshit.singhal712@gmail.com)<img width="15" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhal-amit)<img width="15" />
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_singhal_amit)<img width="15" />
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_singhal_amit/)<img width="15" />
--->
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>

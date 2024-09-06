@@ -80,7 +80,7 @@
 
 <div align="center">
 
-| <img height="150px" width="" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /> | <img align="center" alt="Profile Trophies" src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" /> |
+| <img alt="spotify-github-profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /> | <img align="center" alt="Profile Trophies" src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>

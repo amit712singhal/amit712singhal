@@ -22,6 +22,18 @@
 ## 🛠️ My Skills <a href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a>
 
 ### Programming languages:
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,c,java,python,sql)](https://skillicons.dev)
+
+### Frameworks & Libraries:
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=bootstrap,react,jquery,nodejs,express)](https://skillicons.dev)
+
+### Databases & Cloud Hosting:
+[![Databases & Cloud Hosting](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
+
+### Software & Tools:
+[![Software & Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
+
+<!--
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
@@ -35,20 +47,17 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000.svg?logo=database&logoColor=025E8C)
 
-### Frameworks & Libraries:
 &emsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstarp-000?&logo=Bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Databases & Cloud Hosting:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-### Software & Tools:
 &emsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![VS Code](https://custom-icon-badges.herokuapp.com/badge/Visual%20Studio%20Code-000.svg?logo=visual-studio-code&logoColor=0078d7)
@@ -56,25 +65,27 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
+-->
+
 ## 📊 Stats and Activity
 
 <div align="center">
 
-| <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amit712singhal&show_icons=true&locale=en&rank_icon=github&theme=vision-friendly-dark" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark&border_width=0&border_radius=15.2&hide_border=true" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
 <div align="center">
 
-| <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" height="200px" /> | <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
+| <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" /> | <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
 <div align="center">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

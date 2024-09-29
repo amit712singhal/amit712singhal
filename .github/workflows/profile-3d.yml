@@ -21,4 +21,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "Update 3D Contributions"
-          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
+          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git

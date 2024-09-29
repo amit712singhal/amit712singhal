@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
-## 📌 Recent Projects <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
+## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
 
@@ -44,18 +44,18 @@
 
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%">
-    <!--<img valign="right" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="LeetCode Badge" width="20%">
+    <br/>
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="LeetCode Badge" width="20%">
 </p>
-
+ <!--
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode Badge" width="22%">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" width="22%">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" width="22%">
 -->
 
-<h2 align="center"> Spotify Card </h2>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="LeetCode Stats" width="100%">
-
+<div align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="LeetCode Stats" width="80%">
+</div>
 </td>
 </tr>
 </table>

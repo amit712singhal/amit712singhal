@@ -17,9 +17,13 @@
 
 </div>
 
-&emsp;
+<hr/>
 
-## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px><img width = 10px> My Skills <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 27px><img width = 10px>  My Skills </h2>
 
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,c,java,python,sql)](https://skillicons.dev)
@@ -33,47 +37,52 @@
 ### Software & Tools
 [![Software & Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
 
+</td>
+<td width="50%" valign="top">
+
+<h2 align="center"> 🏆 LeetCode Achievements </h2>
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%">
+    <!--<img valign="right" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="LeetCode Badge" width="20%">
+</p>
+
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode Badge" width="22%">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" width="22%">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" width="22%">
+-->
+
+<h2 align="center"> Spotify Card </h2>
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="LeetCode Stats" width="100%">
+
+</td>
+</tr>
+</table>
+
 ##  <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 10px> My GitHub Stats
+
 <div align="center">
 
 | <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark&border_width=0&border_radius=15.2&hide_border=true" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
+            
+| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<div align="center">
-
-| <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" /> | <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</div>
-
-<div align="center">
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />
-
- </div>   
-
-<div align="center">
-<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-green.svg">
-</div>
-</div>
-
-<div align="center">
-
-| <img alt="spotify-github-profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /> | <img align="center" alt="Profile Trophies" src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</div>
-
-<h2 align="center">Leetcode Info<h2>
-<p align="center">
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
+<img  alt="Contributions" width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</td>
+<td width="30%" valign="center">
+<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
+<img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect with Me
 

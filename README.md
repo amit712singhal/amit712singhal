@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
-## 📌 Recent Projects <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge" alt="Profile Views">
+## 📌 Recent Projects <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
 
@@ -21,16 +21,16 @@
 
 ## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px><img width = 10px> My Skills <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a>
 
-### Programming languages:
+### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,c,java,python,sql)](https://skillicons.dev)
 
-### Frameworks & Libraries:
+### Frameworks & Libraries
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=bootstrap,react,jquery,nodejs,express)](https://skillicons.dev)
 
-### Databases & Cloud Hosting:
+### Databases & Cloud Hosting
 [![Databases & Cloud Hosting](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
 
-### Software & Tools:
+### Software & Tools
 [![Software & Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
 
 ##  <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 10px> My GitHub Stats
@@ -51,7 +51,13 @@
 <div align="center">
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />
 
+ </div>   
+
+<div align="center">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-green.svg">
+</div>
 </div>
 
 <div align="center">
@@ -61,7 +67,6 @@
 
 </div>
 
-<!--
 <h2 align="center">Leetcode Info<h2>
 <p align="center">
   <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
@@ -69,14 +74,13 @@
   <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/_singhal_amit/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
--->
 
 ## 🌐 Connect with Me
 
  <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
- <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a> <img width="15" />
+ <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a> <img width="15" />
  <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
- <a href="https://leetcode.com/u/_singhal_amit/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" /></a> <img width="15" />
+ <a href="https://leetcode.com/u/_singhal_amit/"><img src="https://img.shields.io/badge/LeetCode-0A0209?style=for-the-badge&logo=leetcode&logoColor=d5d5d5" /></a> <img width="15" />
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">

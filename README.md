@@ -24,7 +24,7 @@
 <table>
     <tr>
         <td width="50%" valign="top">
-            <h2 align="center"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 27px><img width = 10px>  My Skills </h2>
+            <h2 align="center"> 💻 My Skills </h2>
 
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,c,java,python,sql)](https://skillicons.dev)
@@ -42,7 +42,6 @@
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
                 <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%">
-                <br/>
                 <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="LeetCode Badge" width="20%">
                  <!--
                   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode Badge" width="22%">
@@ -50,7 +49,7 @@
                   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" width="22%">
                 -->
             </p>
-            <div align="center">
+            <div align="center" valign="bottom">
                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
             </div>
         </td>
@@ -61,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
-## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 10px> My GitHub Stats
+## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px> My GitHub Stats
 
 <div align="center">
 

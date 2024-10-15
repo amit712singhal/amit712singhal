@@ -34,7 +34,7 @@
                   <img title="Git" src="https://skillicons.dev/icons?i=git" height="40" alt="gitlogo" /><img width="10" />
                   <img title="Markdown" src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdownlogo" /><img width="10" />
                   <img title="PHP" src="https://skillicons.dev/icons?i=php" height="40" alt="phplogo" /><img width="10" />
-                  <img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="javalogo" /><img width="10" /><br />
+                  <img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="javalogo" /><img width="10" />
                   <img title="C" src="https://skillicons.dev/icons?i=c" height="40" alt="clogo" /><img width="10" />
                   <img title="My SQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysqllogo" /><img width="10" />
                 <h3>- Frameworks & Libraries</h3>

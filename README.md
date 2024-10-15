@@ -42,12 +42,10 @@
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
                 <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%">
-                <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="LeetCode Badge" width="20%">
-                 <!--
-                  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode Badge" width="22%">
-                  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" width="22%">
-                  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" width="22%">
-                -->
+                <div align="center">
+                    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysBadge" width="20%">
+                    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Sep2024Badge" width="20%">
+                </div>
             </p>
             <div align="center" valign="bottom">
                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">

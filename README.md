@@ -10,8 +10,8 @@
 
 <div align="center">
 
-|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                             |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        |         |
+| :----: | :-----: |
 | <a href="https://github.com/amit712singhal/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=note-keeper&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=job-hunt&theme=vision-friendly-dark" /></a>                         |
 | <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/amit712singhal/login-signup-website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=login-signup-website&theme=vision-friendly-dark" /></a> |
 
@@ -78,14 +78,14 @@
 <div align="center">
 
 | <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark&border_width=0&border_radius=15.2&hide_border=true" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | --- |
 
 </div>
 
 <div align="center">
 
 | [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- |
 
 </div>
 
@@ -100,6 +100,15 @@
         </td>
     </tr>
 </table>
+
+<div align="center">
+
+| [![@amit712singhal's Holopin badges](https://holopin.me/amit712singhal)](https://holopin.io/@amit712singhal) |
+| --- |
+
+</div>
+
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">

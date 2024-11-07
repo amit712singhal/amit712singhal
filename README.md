@@ -103,7 +103,7 @@
 
 <div align="center">
 
-| [![@amit712singhal's Holopin badges](https://holopin.me/amit712singhal)](https://holopin.io/@amit712singhal) |
+| [![Holopin-badges](https://holopin.me/amit712singhal)](https://holopin.io/@amit712singhal) |
 | --- |
 
 </div>

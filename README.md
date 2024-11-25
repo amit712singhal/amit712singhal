@@ -17,10 +17,6 @@
 
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
-</div>
-
 <table>
     <tr>
         <td width="50%" valign="top">
@@ -69,10 +65,6 @@
     </tr>
 </table>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
-</div>
-
 ## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px> My GitHub Stats
 
 <div align="center">
@@ -108,15 +100,13 @@
 
 </div>
 
-
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
-</div>
-
 ## 🌐 Connect with Me
 
 <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://leetcode.com/u/_singhal_amit/"><img src="https://img.shields.io/badge/LeetCode-0A0209?style=for-the-badge&logo=leetcode&logoColor=d5d5d5" /></a> <img width="15" />
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+</div>

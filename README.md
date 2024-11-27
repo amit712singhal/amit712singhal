@@ -12,8 +12,8 @@
 
 |        |         |
 | :----: | :-----: |
-| <a href="https://github.com/amit712singhal/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=note-keeper&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=job-hunt&theme=vision-friendly-dark" /></a>                         |
-| <a href="https://github.com/amit712singhal/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=Sky-Now&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/amit712singhal/login-signup-website"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=login-signup-website&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=note-keeper&theme=vision-friendly-dark" /></a>                         |
+| <a href="https://github.com/amit712singhal/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=job-hunt&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/amit712singhal/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=sky-now&theme=vision-friendly-dark" /></a> |
 
 </div>
 

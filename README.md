@@ -71,7 +71,7 @@
 
 <!-- Github Stats -->
 
-## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>GitHub Stats
+## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>  GitHub Stats
 
 <div align="center">
 

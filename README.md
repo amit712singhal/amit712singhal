@@ -6,6 +6,8 @@
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
+<!-- Recent Projects -->
+
 ## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
@@ -16,6 +18,8 @@
 | <a href="https://github.com/amit712singhal/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=job-hunt&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/amit712singhal/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=sky-now&theme=vision-friendly-dark" /></a> |
 
 </div>
+
+<!-- Skills & Leetcode -->
 
 <table>
     <tr>
@@ -65,14 +69,14 @@
     </tr>
 </table>
 
-## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px> My GitHub Stats
+<!-- Github Stats -->
+
+## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>GitHub Stats
 
 <div align="center">
 
-| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit712singhal&theme=vision-friendly-dark&border_width=0&border_radius=15.2&hide_border=true" /> |
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=amit712singhal&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
 | --- | --- |
-
-</div>
 
 <div align="center">
 
@@ -99,6 +103,8 @@
 | --- |
 
 </div>
+
+<!-- Social Network -->
 
 ## 🌐 Connect with Me
 

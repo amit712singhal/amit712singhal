@@ -8,14 +8,14 @@
 
 <!-- Recent Projects -->
 
-## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=amit712singhal&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
+## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
 
 |        |         |
 | :----: | :-----: |
-| <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a> | <a href="https://github.com/amit712singhal/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=note-keeper&theme=vision-friendly-dark" /></a>                         |
-| <a href="https://github.com/amit712singhal/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=job-hunt&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/amit712singhal/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=amit712singhal&repo=sky-now&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a> | <a href="https://github.com/singhal-amit/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=note-keeper&theme=vision-friendly-dark" /></a>                         |
+| <a href="https://github.com/singhal-amit/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=job-hunt&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a> |
 
 </div>
 
@@ -81,12 +81,12 @@
 
 <div align="center">
 
-| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=amit712singhal&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=amit712singhal&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=singhal-amit&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
 | --- | --- |
 
 <div align="center">
 
-| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=amit712singhal&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhal-amit&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 | --- |
 
 </div>
@@ -97,8 +97,8 @@
             <img  alt="Contributions" width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg">
         </td>
         <td width="30%" valign="center">
-            <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit712singhal&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
-            <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=amit712singhal&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
+            <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal-amit&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
+            <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=singhal-amit&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
         </td>
     </tr>
 </table>
